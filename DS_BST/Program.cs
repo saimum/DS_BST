@@ -17,7 +17,6 @@ namespace DS_BST
             bts.Insert(12);
             bts.Insert(19);
             
-            Console.WriteLine("Hello World!");
             Console.ReadKey();
             
         }
